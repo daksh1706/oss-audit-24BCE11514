@@ -1,13 +1,13 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: [Your Name] | Roll: [Your Roll Number]
+# Author: Daksh Maru | Roll: 24BCE11514
 # Course: Open Source Software | Software Choice: Git
 # Description: Displays a welcome screen with system info
 # ============================================================
 
 # --- Variables ---
-STUDENT_NAME="[Your Name]"        # Replace with your name
+STUDENT_NAME="Daksh Maru"        # Replace with your name
 SOFTWARE_CHOICE="Git"             # Our chosen open-source software
 LICENSE="GPL v2"                  # Git's license
 
