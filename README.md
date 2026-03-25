@@ -2,8 +2,8 @@
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
-**Student Name:** Aaryan Mauya
-**Roll Number:** 24BAI10259
+**Student Name:** Daksh Maru
+**Roll Number:** 24BCE11514
 **Chosen Software:** Git (Licensed under GPL v2)
 
 ---
